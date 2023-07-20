@@ -1,4 +1,4 @@
-# FlutterFeed
+# BuzzTweeter
 Description:
 I conceptualized, designed, and developed a feature-rich social media CRUD application with a like feature, leveraging cutting-edge technologies including FastAPI and PostgreSQL. This project allowed users to share, interact, and engage with posts, creating a vibrant and dynamic social platform.
 

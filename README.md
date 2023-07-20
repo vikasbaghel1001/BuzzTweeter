@@ -3,6 +3,7 @@ Description:
 I conceptualized, designed, and developed a feature-rich social media CRUD application with a like feature, leveraging cutting-edge technologies including FastAPI and PostgreSQL. This project allowed users to share, interact, and engage with posts, creating a vibrant and dynamic social platform.
 
 Key Features and Achievements:
+
 User Authentication with Session Token: Implemented a robust user authentication system using session tokens, ensuring secure access and protecting users' data privacy.
 
 Post CRUD Operations: Developed a comprehensive CRUD (Create, Read, Update, Delete) application for posts, enabling users to effortlessly create, view, modify, and delete their posts.
